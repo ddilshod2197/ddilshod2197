@@ -12,15 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=ddilshod2197&label=PROFILE+VIEWS&color=1565C0&style=for-the-badge"/>
 </p>
 
----
 
-<div align="center">
-
-![Durdiboyev Banner](banner.svg)
-
-</div>
-
----
 
 <!-- ===================== ABOUT ===================== -->
 
