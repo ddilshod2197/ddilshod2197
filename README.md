@@ -1,159 +1,507 @@
-<!-- ===================== HEADER ===================== -->
+<!-- ╔══════════════════════════════════════════════════════╗ -->
+<!-- ║   DILSHOD — Ultimate GitHub Profile README v4.0    ║ -->
+<!-- ║   Made with 💜 & ☕ from Xorazm-01, Uzbekistan      ║ -->
+<!-- ╚══════════════════════════════════════════════════════╝ -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C1E3E,40:0E3A6E,70:1565C0,100:1976D2&height=220&section=header&text=Dilshod%20Durdiboyev&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Database%20Engineer%20%7C%20Night%20Coder%20🌙&descAlignY=60&descSize=17&fontAlign=50"/>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=200&section=header&text=DILSHOD&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=⚡%20Backend%20Developer%20%7C%20🐍%20Python%20Architect%20%7C%20🚀%20API%20Craftsman&descAlignY=65&descSize=17&descColor=a78bfa" width="100%"/>
+</div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=1E88E5&center=true&vCenter=true&width=900&lines=Dilshod+Durdiboyev;Backend+%7C+Database+%7C+Full+Stack;Python+%7C+Django+%7C+PostgreSQL;Data+Architect+%26+API+Builder+🔥;Night+Coder+🌙;Building+Scalable+Digital+Systems+🚀" />
-</h1>
+<div align="center">
+  <img src="banner.svg" width="100%" alt="DILSHOD Space Banner"/>
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ddilshod2197&label=PROFILE+VIEWS&color=1565C0&style=for-the-badge"/>
-</p>
+<br/>
 
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2400&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=85&lines=🚀+Exploring+the+Digital+Universe...;🐍+Pythonista+%7C+Django+Architect+%7C+API+Craftsman;⚡+Building+Scalable+Backends+from+Xorazm-01;🌌+Clean+Code+%7C+SOLID+Principles+%7C+Clean+Architecture)](https://git.io/typing-svg)
 
-<!-- ===================== ABOUT ===================== -->
+</div>
 
-## 🌊 About Me
+<br/>
 
-<img align="right" width="405" height="280" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" style="border-radius:12px; margin-left:16px;"/>
+<div align="center">
+  <img src="https://img.shields.io/badge/🟢_STATUS-ONLINE-04021a?style=for-the-badge&labelColor=065f46"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/📍_LOCATION-Xorazm,_UZ_🇺🇿-04021a?style=for-the-badge&labelColor=1e3a5f"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/🎯_MISSION-Building_Epic_APIs-04021a?style=for-the-badge&labelColor=6b21a8"/>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=ddilshod2197&style=for-the-badge&color=7c3aed&label=👁+PROFILE+VIEWS&labelColor=04021a"/>
+</div>
 
-```yaml
-👤 Name     : Dilshod Durdiboyev
-💻 Role     : Backend Developer & Database Engineer
-🎓 Study    : IT Park Uzbekistan
-📍 Location : Uzbekistan 🇺🇿
-⚡ Passion  : Clean APIs + Powerful Databases
-🌙 Style    : Night coder — best ideas come after midnight
-🎯 Goal     : Build scalable, data-driven digital systems
-🌊 Vibe     : Deep like the ocean, fast like a current
-🔥 Focus    : Backend logic is my favorite puzzle
-📚 Learning : Always exploring new technologies
-```
+<br/>
 
-> *"Code is like water — it finds its way through every problem."* 💧
+<div align="center">
+  <img src="https://img.shields.io/badge/🤝_OPEN_TO-Collaborations-04021a?style=flat-square&labelColor=059669"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/💬_ASK_ME-Python,_Django,_APIs-04021a?style=flat-square&labelColor=7c3aed"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/⚡_FUN_FACT-3AM_Debugger_Pro-04021a?style=flat-square&labelColor=dc2626"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/☕_POWERED_BY-Coffee_+_Code-04021a?style=flat-square&labelColor=92400e"/>
+</div>
 
-<br clear="right"/>
-
----
-
-<!-- ===================== DASHBOARD STATS ===================== -->
-
-## 📊 GitHub Dashboard
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ddilshod2197&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1B2E&title_color=1E88E5&icon_color=1565C0&text_color=90CAF9&ring_color=1976D2"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddilshod2197&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1B2E&title_color=1E88E5&text_color=90CAF9"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ddilshod2197&theme=tokyonight&hide_border=true&background=0D1B2E&ring=1E88E5&fire=1565C0&currStreakLabel=1976D2&sideLabels=90CAF9"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ddilshod2197&theme=tokyo-night&color=1E88E5&line=1565C0&point=90CAF9&bg_color=0D1B2E&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ddilshod2197&theme=github_dark"/>
-</p>
+<br/>
 
 ---
 
-<!-- ===================== TECH STACK ===================== -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/> &nbsp;`whoami --full`
 
-## 💻 Technologies
+<br/>
 
-### ⚡ Backend & Fullstack
+<table align="center" border="0">
+<tr>
+<td width="52%" valign="top">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python" width="55" height="55"/>
-  <img src="https://skillicons.dev/icons?i=flask" width="55" height="55"/>
-  <img src="https://skillicons.dev/icons?i=django" width="55" height="55"/>
-  <img src="https://skillicons.dev/icons?i=c" width="55" height="55"/>
-  <img src="https://skillicons.dev/icons?i=cpp" width="55" height="55"/>
-</p>
+### 🧑‍🚀 &nbsp;Dilshod Durdiboyev
 
-### 🎨 Frontend
+> *"Turning coffee into scalable APIs since 2022.*
+> *Debugging at 3AM is not a bug — it's a lifestyle."*
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html" width="55" height="55"/>
-  <img src="https://skillicons.dev/icons?i=css" width="55" height="55"/>
-  <img src="https://skillicons.dev/icons?i=bootstrap" width="55" height="55"/>
-  <img src="https://skillicons.dev/icons?i=js" width="55" height="55"/>
-  <img src="https://skillicons.dev/icons?i=jinja" width="55" height="55"/>
-</p>
+<br/>
 
-### 🛢 Database
+| | |
+|---|---|
+| 🔭 | Production-ready backend systems qurmoqdaman |
+| 🌱 | FastAPI · Celery · Kubernetes o'rganmoqdaman |
+| 💡 | REST API · Microservices · Clean Architecture |
+| 🎯 | SOLID principles · Design Patterns · TDD |
+| 🧠 | Muammolarni birinchi hal qilaman, keyin kod yozaman |
+| ☕ | Coffee → Code → `git commit` → `git push` → Repeat |
+| 🌙 | 3AM debugging sessiyalari — bu mening superkuchim |
+| 🌍 | Xorazm, Uzbekistan 🇺🇿 |
+| 📬 | ddilshod2197@gmail.com |
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres" width="55" height="55"/>
-  <img src="https://skillicons.dev/icons?i=mysql" width="55" height="55"/>
-  <img src="https://skillicons.dev/icons?i=sqlite" width="55" height="55"/>
-  <img src="https://skillicons.dev/icons?i=redis" width="55" height="55"/>
-</p>
+</td>
+<td width="48%" align="center" valign="top">
 
-### 🧰 Tools
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="290" alt="Coding GIF"/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git" width="55" height="55"/>
-  <img src="https://skillicons.dev/icons?i=github" width="55" height="55"/>
-  <img src="https://skillicons.dev/icons?i=docker" width="55" height="55"/>
-  <img src="https://skillicons.dev/icons?i=linux" width="55" height="55"/>
-  <img src="https://skillicons.dev/icons?i=vscode" width="55" height="55"/>
-</p>
+<br/><br/>
+
+![Python](https://img.shields.io/badge/Python-90%25-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-85%25-092E20?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-80%25-316192?style=flat-square&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-70%25-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-65%25-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-60%25-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ---
 
-<!-- ===================== SNAKE ===================== -->
+## 🛠️ &nbsp;`tech_stack --all`
 
-## 🐍 Contribution Snake
+<br/>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="110">
+  <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"/>
+  <br/><sub><b>Python</b></sub>
+</td>
+<td align="center" width="110">
+  <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django"/>
+  <br/><sub><b>Django</b></sub>
+</td>
+<td align="center" width="110">
+  <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI"/>
+  <br/><sub><b>FastAPI</b></sub>
+</td>
+<td align="center" width="110">
+  <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask"/>
+  <br/><sub><b>Flask</b></sub>
+</td>
+<td align="center" width="110">
+  <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL"/>
+  <br/><sub><b>PostgreSQL</b></sub>
+</td>
+<td align="center" width="110">
+  <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis"/>
+  <br/><sub><b>Redis</b></sub>
+</td>
+<td align="center" width="110">
+  <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"/>
+  <br/><sub><b>Docker</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="110">
+  <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux"/>
+  <br/><sub><b>Linux</b></sub>
+</td>
+<td align="center" width="110">
+  <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx"/>
+  <br/><sub><b>Nginx</b></sub>
+</td>
+<td align="center" width="110">
+  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/>
+  <br/><sub><b>Git</b></sub>
+</td>
+<td align="center" width="110">
+  <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/>
+  <br/><sub><b>GitHub</b></sub>
+</td>
+<td align="center" width="110">
+  <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code"/>
+  <br/><sub><b>VS Code</b></sub>
+</td>
+<td align="center" width="110">
+  <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman"/>
+  <br/><sub><b>Postman</b></sub>
+</td>
+<td align="center" width="110">
+  <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="CI/CD"/>
+  <br/><sub><b>CI/CD</b></sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-★★★★★-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-★★★☆☆-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-★★★★☆-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-★★★☆☆-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+**Frameworks**
+
+![Django](https://img.shields.io/badge/Django-★★★★★-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-★★★★☆-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-★★★☆☆-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-★★★★☆-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-★★★☆☆-37814A?style=for-the-badge&logo=celery&logoColor=white)
+
+</div>
+
+<br/>
+
+---
+
+## 📊 &nbsp;`github stats --verbose`
+
+<br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://streak-stats.demolab.com?user=ddilshod2197&theme=tokyonight&hide_border=true&background=04021a&ring=7c3aed&fire=f472b6&currStreakLabel=a78bfa&sideLabels=60a5fa&dates=4a3880&stroke=1e0a42&border_radius=12" alt="Streak Stats"/>
 </p>
 
----
-
-<!-- ===================== FUN ZONE ===================== -->
-
-## 🌟 Fun Zone
-
-- 🌙 I code mostly at night when everything is quiet and the ocean calls  
-- 🗄️ Database architecture fascinates me — I love designing data flows  
-- ⚙️ Backend logic is my favorite puzzle to solve  
-- 🌊 I think in queries and dream in schemas  
-- 🚀 Goal: Become a world-class Backend & Database Engineer  
-- 💧 Water teaches patience — so does debugging at 2AM  
-
----
-
-<!-- ===================== CONTACT ===================== -->
-
-## 📬 Contact
+<br/>
 
 <p align="center">
-  <a href="https://t.me/ddilshod2197">
-    <img src="https://img.shields.io/badge/Telegram-1565C0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  <img height="185" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ddilshod2197&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=04021a&title_color=a78bfa&icon_color=60a5fa&text_color=e2e8f0&border_radius=12&include_all_commits=true" alt="GitHub Stats"/>
+  &nbsp;
+  <img height="185" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ddilshod2197&layout=compact&theme=tokyonight&hide_border=true&bg_color=04021a&title_color=a78bfa&text_color=e2e8f0&border_radius=12&langs_count=8" alt="Top Languages"/>
+</p>
+
+<br/>
+
+<p align="center">
+  <a href="https://github.com/ddilshod2197">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ddilshod2197&theme=tokyo-night&hide_border=true&bg_color=04021a&color=a78bfa&line=7c3aed&point=f472b6&area=true&area_color=1e0a42&radius=8" alt="Activity Graph"/>
   </a>
-  <a href="https://linkedin.com/in/ddilshod2197">
-    <img src="https://img.shields.io/badge/LinkedIn-0D47A1?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:ddilshod2197@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-1976D2?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+</p>
+
+<br/>
+
+---
+
+## 🏆 &nbsp;`trophies --showcase`
+
+<br/>
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ddilshod2197&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<br/>
+
+---
+
+## 🎯 &nbsp;`mission_control --live-status`
+
+<br/>
+
+<div align="center">
+
+<table>
+<thead>
+<tr>
+<th align="center">🛸 Status</th>
+<th align="left">📋 Mission</th>
+<th align="center">⚡ Priority</th>
+<th align="center">📈 Progress</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">✅ <b>DEPLOYED</b></td>
+<td>Clean & Pythonic code standartlari</td>
+<td align="center">🔴 CRITICAL</td>
+<td><code>████████████ 100%</code></td>
+</tr>
+<tr>
+<td align="center">✅ <b>DEPLOYED</b></td>
+<td>Django + DRF production REST API</td>
+<td align="center">🔴 CRITICAL</td>
+<td><code>███████████░ &nbsp;92%</code></td>
+</tr>
+<tr>
+<td align="center">✅ <b>DEPLOYED</b></td>
+<td>PostgreSQL + Redis database layer</td>
+<td align="center">🟠 HIGH</td>
+<td><code>██████████░░ &nbsp;85%</code></td>
+</tr>
+<tr>
+<td align="center">✅ <b>DEPLOYED</b></td>
+<td>Docker containerization workflow</td>
+<td align="center">🟠 HIGH</td>
+<td><code>█████████░░░ &nbsp;80%</code></td>
+</tr>
+<tr>
+<td align="center">🔄 <b>IN ORBIT</b></td>
+<td>FastAPI + async/await patterns</td>
+<td align="center">🔴 CRITICAL</td>
+<td><code>████████░░░░ &nbsp;68%</code></td>
+</tr>
+<tr>
+<td align="center">🔄 <b>IN ORBIT</b></td>
+<td>Celery background task queues</td>
+<td align="center">🟠 HIGH</td>
+<td><code>███████░░░░░ &nbsp;55%</code></td>
+</tr>
+<tr>
+<td align="center">🛸 <b>LAUNCHING</b></td>
+<td>Microservices architecture design</td>
+<td align="center">🟡 MED</td>
+<td><code>████░░░░░░░░ &nbsp;35%</code></td>
+</tr>
+<tr>
+<td align="center">📅 <b>QUEUED</b></td>
+<td>Kubernetes + container orchestration</td>
+<td align="center">🟡 MED</td>
+<td><code>██░░░░░░░░░░ &nbsp;20%</code></td>
+</tr>
+<tr>
+<td align="center">🌌 <b>DREAMING</b></td>
+<td>Backend universumini zabt etish 🚀</td>
+<td align="center">∞ INFINITE</td>
+<td><code>∞∞∞∞∞∞∞∞∞∞∞∞ &nbsp;∞%</code></td>
+</tr>
+</tbody>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+## 📅 &nbsp;`git log --journey --oneline`
+
+<br/>
+
+<div align="center">
+
+| 🗓️ Yil | 🚀 Voqea | 🏷️ Tag |
+|:------:|:---------|:------:|
+| **2022** | 🐍 Python bilan birinchi tanishuv → `print("Hello, World!")` | `v0.1.0` |
+| **2022** | 📖 Algorithmlar, data structures, OOP asoslari | `v0.2.0` |
+| **2023** | 🌐 Django Framework → birinchi web ilovam yaratildi | `v0.5.0` |
+| **2023** | 🗄️ PostgreSQL & SQLite → database dunyosi kashf etildi | `v0.6.0` |
+| **2023** | 🔌 REST API + DRF → backend API craftsman bo'ldim | `v0.8.0` |
+| **2024** | ⚡ Redis · Celery · async task queue | `v1.0.0` |
+| **2024** | 🐳 Docker → containerize qila boshladim | `v1.2.0` |
+| **2024** | 🧪 Unit testing · Pytest · TDD methodology | `v1.4.0` |
+| **2024** | 🔐 JWT · OAuth2 · API security best practices | `v1.5.0` |
+| **2025** | 🚀 FastAPI → yangi horizont ochildi | `v2.0.0` |
+| **2025** | ☁️ AWS · Cloud deployment · CI/CD pipelines | `v2.3.0` |
+| **2025** | 🏗️ Microservices architecture exploration | `v2.5.0` |
+| **2077** | 🌌 Backend universumi — **ZABT ETILDI** ✓ | `v∞.0.0` |
+
+</div>
+
+<br/>
+
+---
+
+## 🧠 &nbsp;`principles --core`
+
+<br/>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="220">
+
+### 🔵 SOLID
+
+**S** — Single Responsibility<br/>
+**O** — Open/Closed<br/>
+**L** — Liskov Substitution<br/>
+**I** — Interface Segregation<br/>
+**D** — Dependency Inversion
+
+</td>
+<td align="center" width="220">
+
+### 🟣 Clean Code
+
+**DRY** — Don't Repeat Yourself<br/>
+**KISS** — Keep It Simple<br/>
+**YAGNI** — You Ain't Gonna Need It<br/>
+**TDD** — Test Driven Dev<br/>
+**CR** — Code Review always
+
+</td>
+<td align="center" width="220">
+
+### 🟢 My Rules
+
+**☕** — Coffee before code<br/>
+**🧪** — Test everything<br/>
+**📖** — Docs matters<br/>
+**🔒** — Security first<br/>
+**🚀** — Ship it fast
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+## 📊 &nbsp;`contributions --calendar`
+
+<br/>
+
+<div align="center">
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ddilshod2197&bg_color=04021a&color=a78bfa&line=7c3aed&point=f472b6&area=true&area_color=1e0a42&hide_border=true&radius=8&custom_title=Dilshod%27s%20Contribution%20Graph)](https://github.com/ddilshod2197)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ddilshod2197&theme=tokyonight" width="100%" alt="Profile Summary"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ddilshod2197&theme=tokyonight" width="32%"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ddilshod2197&theme=tokyonight" width="32%"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ddilshod2197&theme=tokyonight" width="32%"/>
+
+</div>
+
+<br/>
+
+---
+
+## 🐍 &nbsp;`git log --contributions`
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ddilshod2197/ddilshod2197/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
 
 ---
 
-<!-- ===================== OCEAN FOOTER ===================== -->
+## 💬 &nbsp;`wisdom --random`
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C1E3E,25:0D2E5A,50:0E3A6E,75:1565C0,100:1976D2&height=200&section=footer&text=Keep%20Coding%20🌊&fontSize=26&fontColor=ffffff&animation=twinkling&fontAlignY=68"/>
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=1E88E5&center=true&vCenter=true&width=500&lines=～～～～～～～～～～～～～～～～～～～～～～;🌊+Deep+like+the+ocean,+strong+like+the+current;～～～～～～～～～～～～～～～～～～～～～～" />
-</p>
+<div align="center">
+
+[![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+> 💡 **Mening shaxsiy falsafam:**
+>
+> *"First, solve the problem. Then, write the code."*
+> *"Make it work, make it right, make it fast."*
+> *"Code is read more often than it is written."*
+
+</div>
+
+<br/>
+
+---
+
+## 🌐 &nbsp;`connect --all-channels`
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/ddilshod2197">
+  <img src="https://img.shields.io/badge/GitHub-ddilshod2197-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://t.me/durdiboyev_d">
+  <img src="https://img.shields.io/badge/Telegram-@durdiboyev_d-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:ddilshod2197@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/ddilshod2197">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/github/followers/ddilshod2197?style=for-the-badge&logo=github&color=a78bfa&label=FOLLOWERS&labelColor=04021a"/>
+&nbsp;
+<img src="https://img.shields.io/github/stars/ddilshod2197?style=for-the-badge&logo=github&color=f472b6&label=TOTAL+STARS&labelColor=04021a"/>
+&nbsp;
+<img src="https://img.shields.io/badge/OPEN_TO-Work_%26_Collabs-34d399?style=for-the-badge&labelColor=04021a"/>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=28&fontColor=a78bfa&animation=twinkling&fontAlignY=55&desc=⭐%20Star%20my%20repos%20if%20you%20find%20them%20useful!&descColor=60a5fa&descSize=14&descAlignY=78" width="100%"/>
+
+</div>
+
+<!-- ╔══════════════════════════════════════════════════════╗ -->
+<!-- ║  Made with 💜, ☕ and 3AM debugging from Xorazm-01  ║ -->
+<!-- ║  github.com/ddilshod2197                            ║ -->
+<!-- ╚══════════════════════════════════════════════════════╝ -->
