@@ -173,6 +173,7 @@
 
 **Languages**
 
+
 ![Python](https://img.shields.io/badge/Python-★★★★★-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-★★★☆☆-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-★★★★☆-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -180,27 +181,17 @@
 
 **Frameworks**
 
+![Django](https://img.shields.io/badge/Django-★★★★★-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-★★★★☆-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-★★★☆☆-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-★★★★☆-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-★★★☆☆-37814A?style=for-the-badge&logo=celery&logoColor=white)
 
-
-
-
-<p align="center">
-  <img height="185" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ddilshod2197&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=04021a&title_color=a78bfa&icon_color=60a5fa&text_color=e2e8f0&border_radius=12&include_all_commits=true" alt="GitHub Stats"/>
-  &nbsp;
-  <img height="185" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ddilshod2197&layout=compact&theme=tokyonight&hide_border=true&bg_color=04021a&title_color=a78bfa&text_color=e2e8f0&border_radius=12&langs_count=8" alt="Top Languages"/>
-</p>
+</div>
 
 <br/>
 
-<p align="center">
-  <a href="https://github.com/ddilshod2197">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ddilshod2197&theme=tokyo-night&hide_border=true&bg_color=04021a&color=a78bfa&line=7c3aed&point=f472b6&area=true&area_color=1e0a42&radius=8" alt="Activity Graph"/>
-  </a>
-</p>
 
-<br/>
-
----
 
 
 ## 🎯 &nbsp;`mission_control --live-status`
