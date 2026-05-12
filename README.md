@@ -180,15 +180,7 @@
 
 **Frameworks**
 
-![Django](https://img.shields.io/badge/Django-★★★★★-092E20?style=for-the-badge&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/DRF-★★★★☆-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-★★★☆☆-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-★★★★☆-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-★★★☆☆-37814A?style=for-the-badge&logo=celery&logoColor=white)
 
-</div>
-
-<br/>
 
 
 
