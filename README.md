@@ -190,17 +190,7 @@
 
 <br/>
 
----
 
-## 📊 &nbsp;`github stats --verbose`
-
-<br/>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ddilshod2197&theme=tokyonight&hide_border=true&background=04021a&ring=7c3aed&fire=f472b6&currStreakLabel=a78bfa&sideLabels=60a5fa&dates=4a3880&stroke=1e0a42&border_radius=12" alt="Streak Stats"/>
-</p>
-
-<br/>
 
 <p align="center">
   <img height="185" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ddilshod2197&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=04021a&title_color=a78bfa&icon_color=60a5fa&text_color=e2e8f0&border_radius=12&include_all_commits=true" alt="GitHub Stats"/>
