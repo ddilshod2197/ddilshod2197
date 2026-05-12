@@ -366,49 +366,6 @@
 
 <br/>
 
----
-
-## 📊 &nbsp;`contributions --calendar`
-
-<br/>
-
-<div align="center">
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ddilshod2197&bg_color=04021a&color=a78bfa&line=7c3aed&point=f472b6&area=true&area_color=1e0a42&hide_border=true&radius=8&custom_title=Dilshod%27s%20Contribution%20Graph)](https://github.com/ddilshod2197)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ddilshod2197&theme=tokyonight" width="100%" alt="Profile Summary"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ddilshod2197&theme=tokyonight" width="32%"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ddilshod2197&theme=tokyonight" width="32%"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ddilshod2197&theme=tokyonight" width="32%"/>
-
-</div>
-
-<br/>
-
----
-
-## 🐍 &nbsp;`git log --contributions`
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ddilshod2197/ddilshod2197/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</p>
-
----
 
 ## 💬 &nbsp;`wisdom --random`
 
