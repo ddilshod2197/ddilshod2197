@@ -400,11 +400,6 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/github/followers/ddilshod2197?style=for-the-badge&logo=github&color=a78bfa&label=FOLLOWERS&labelColor=04021a"/>
-&nbsp;
-<img src="https://img.shields.io/github/stars/ddilshod2197?style=for-the-badge&logo=github&color=f472b6&label=TOTAL+STARS&labelColor=04021a"/>
-&nbsp;
-<img src="https://img.shields.io/badge/OPEN_TO-Work_%26_Collabs-34d399?style=for-the-badge&labelColor=04021a"/>
 
 </div>
 
